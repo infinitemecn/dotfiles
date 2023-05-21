@@ -1,2 +1,2 @@
 # dotfiles
-pinionated dotfile repo for myself convenience
+opinionated dotfile repo for myself convenience
