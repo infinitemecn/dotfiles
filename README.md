@@ -1,2 +1,3 @@
 # dotfiles
-opinionated dotfile repo for myself convenience
+
+Opinionated dotfile repo for myself convenience
